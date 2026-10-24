@@ -1,0 +1,8 @@
+config,est_p2p_nm,ref_p2p_nm,est_to_ref,lam_r_lam,lam_r_x,low_rank
+full default,1.64,0.38,4.3,0.003,0.003,0
+full strong smooth,1.64,0.38,4.3,0.03,0.03,0
+full very strong,1.65,0.38,4.4,0.3,0.3,0
+full extreme,1.65,0.38,4.3,3.0,3.0,0
+full strong spectral,1.64,0.38,4.3,0.3,0.003,0
+full strong x-track,1.65,0.38,4.4,0.003,0.3,0
+K=2 strong x-track (ref),19.72,0.38,51.9,0.003,0.3,2

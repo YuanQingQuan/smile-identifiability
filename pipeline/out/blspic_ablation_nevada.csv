@@ -1,0 +1,9 @@
+scene,config,K,lam_r_x,shared,o2_only,dlam_p2p_nm,truth_p2p_nm,est_to_truth_ratio,loss
+Nevada,default_K2,2,0.003,False,True,27.0,0.38,71.0,0.037
+Nevada,K4,4,0.003,False,True,24.6,0.38,65.0,0.035
+Nevada,K8,8,0.003,False,True,27.1,0.38,71.0,0.022
+Nevada,full_rank,0,0.003,False,True,0.9,0.38,2.0,0.017
+Nevada,strong_reg,2,0.03,False,True,30.1,0.38,79.0,0.038
+Nevada,weak_reg,2,0.0003,False,True,29.1,0.38,77.0,0.034
+Nevada,shared_refl,2,0.003,True,True,29.2,0.38,77.0,0.042
+Nevada,five_line_anchor,2,0.003,False,False,6.5,0.38,17.0,0.027

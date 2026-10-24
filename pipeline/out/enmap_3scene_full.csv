@@ -1,0 +1,4 @@
+scene,terrain,heterogeneity,snr,truth_p2p_nm,blspic_p2p_nm,est_truth_ratio,shape_R,ramp_gain_class,sv_ratio_2,phys_line_p2p_nm,phys_class,floor_pilot_nm,floor_crlb_closed_nm,C_closed,status
+Nevada,沙漠,1.09e+04,18.0,0.38,22.0,58.0,0.877,ramp_dominant,0.186,36.5,ramp_like,16.59,58.71,37.15,artifact_dominated
+Groningen,海岸低地,5.19e+02,5.0,0.357,6.8,19.0,0.751,ramp_dominant,0.811,39.6,ramp_like,16.59,58.69,37.14,unidentifiable_ramp
+Tyrol,山岳,1.65e+04,3.0,0.355,16.4,46.0,0.302,ramp_dominant,0.728,38.5,ramp_like,16.59,58.7,37.14,artifact_dominated

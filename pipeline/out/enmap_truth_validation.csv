@@ -1,0 +1,5 @@
+scene,truth_type,n_vnir_bands,mean_p2p_nm,max_p2p_nm,max_p2p_wavelength_nm,o2a_band_local_idx,o2a_band_wavelength_nm,o2a_full_p2p_nm,truth_crop_p2p_nm,est_p2p_nm,est_to_truth_amplitude_ratio,truth_shape_R,truth_rmse_nm
+Nevada,enmap_metadata_smileCorrection,91,0.3562433039911084,0.5978166983469294,920.08,62,763.7,0.3802188656448222,,,,,
+Groningen,enmap_metadata_smileCorrection,91,0.3341842722393898,0.5756470275940007,919.66,62,763.32,0.35700498944225273,,,,,
+Tyrol,enmap_metadata_smileCorrection,91,0.33209048606749747,0.5735424607313008,919.77,62,763.42,0.3549275795785516,,,,,
+Nevada,estimate_vs_metadata_truth_o2a,,,,,62,763.7,0.3802188656448222,0.15255714305963808,17.85566520690918,117.04247240608716,0.5287013484042826,4.963856087325704

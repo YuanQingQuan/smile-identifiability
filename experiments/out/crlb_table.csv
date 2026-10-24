@@ -1,0 +1,4 @@
+sensor,delta_nm,fwhm_nm,sigma_eff_nm,d_eff,sigma_crlb_nm,phase_lo,phase_hi,ratio_closed_phaseavg
+Hyperion-like,10.0,10.0,4.61,0.234,0.103,0.75,2.19,1.0
+EnMAP-like,6.4,7.8,3.77,0.286,0.061,0.85,1.27,1.0
+PRISMA-like,9.0,11.0,5.01,0.216,0.11,0.82,1.39,1.0

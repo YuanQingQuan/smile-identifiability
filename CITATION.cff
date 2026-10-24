@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "Identifiability floor and rank criterion for spectral smile estimation in pushbroom imaging spectrometers"
+authors:
+  - family-names: "Yuan"
+    given-names: "Qingquan"
+  - family-names: "Cao"
+    given-names: "Fuhan"
+  - family-names: "Cao"
+    given-names: "Zhenyang"
+version: "1.0.0"
+date-released: "2026-10-14"
+license: "MIT"
+keywords:
+  - hyperspectral
+  - imaging spectrometer
+  - spectral smile
+  - identifiability
+  - Cramer-Rao lower bound
+  - EnMAP
+  - Hyperion

@@ -1,0 +1,4 @@
+scene,snr,truth_p2p_nm,blspic_p2p_nm,est_truth_ratio,shape_R,ramp_gain_class,sv_ratio_2,rank1_fraction,phys_line_p2p_nm,phys_sync_corr,phys_class,floor_nm,status
+Nevada,20.0,0.38,32.6,86.0,0.899,ramp_dominant,0.244,0.827,38.6,0.14,ramp_like,16.59,artifact_dominated
+Groningen,6.0,0.357,11.3,32.0,0.356,ramp_dominant,0.695,0.389,39.6,0.16,ramp_like,16.59,unidentifiable_ramp
+Tyrol,4.0,0.355,15.3,43.0,0.572,ramp_dominant,0.833,0.347,39.6,0.15,ramp_like,16.59,unidentifiable_ramp

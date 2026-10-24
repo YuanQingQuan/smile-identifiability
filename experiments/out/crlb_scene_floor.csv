@@ -1,0 +1,4 @@
+scene,snr_cm,sigma_crlb_nm,p2p_floor_lo_nm,p2p_floor_hi_nm,ref_over_floor_lo,ref_over_floor_hi
+Nevada,762.8,0.0239,0.079,0.091,4.19,4.82
+Groningen,687.7,0.0265,0.087,0.101,3.55,4.08
+Tyrol,275.9,0.066,0.218,0.251,1.42,1.63

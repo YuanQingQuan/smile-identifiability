@@ -1,0 +1,15 @@
+scene,snr_new,method,dlam_p2p_nm
+20080317,28.0,col_mad,0.65
+20080322,36.0,col_mad,0.54
+20080512,231.0,col_mad,1.07
+P013_2008,79.0,col_mad,9.54
+P045_2008,65.0,col_mad,11.43
+P116_2017,61.0,col_mad,13.02
+P119_2008,71.0,col_mad,13.64
+P171_2017,81.0,col_mad,13.38
+P182_2008,55.0,col_mad,11.21
+P218_2017,19.0,col_mad,nan
+P223_2017,19.0,col_mad,13.5
+EnMAP_Nevada,12.0,pca_residual_masked,nan
+EnMAP_Groningen,4.0,pca_residual_masked,nan
+EnMAP_Tyrol,3.0,pca_residual_masked,nan

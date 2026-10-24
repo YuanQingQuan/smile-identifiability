@@ -1,0 +1,11 @@
+scene,path_row,p2p_nm,C_multiline,R_same_pathrow,SNR,min_detectable_p2p,status
+20080317,133033,0.65,0.905,0.572,28.0,2.91,unidentifiable
+20080322,133033,0.54,0.933,0.54,36.0,2.91,unidentifiable
+20080512,133033,1.07,0.587,0.697,231.0,2.91,unidentifiable
+P013_2008,013030,9.54,0.925,nan,79.0,2.91,artifact_dominated
+P045_2008,045029,11.43,0.65,nan,65.0,2.91,artifact_dominated
+P116_2017,116066,13.02,0.326,nan,61.0,2.91,artifact_dominated
+P119_2008,119037,13.64,0.934,nan,71.0,2.91,artifact_dominated
+P171_2017,171060,13.38,0.826,nan,81.0,2.91,artifact_dominated
+P182_2008,182055,11.21,0.911,nan,55.0,2.91,artifact_dominated
+P223_2017,223068,13.5,0.683,nan,19.0,2.91,artifact_dominated

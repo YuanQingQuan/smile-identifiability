@@ -1,0 +1,7 @@
+scene,config,K,lam_r_lam,lam_r_x,dlam_p2p_nm,truth_p2p_nm,est_to_truth_ratio,shape_R,final_loss
+Nevada,full_default,0,0.003,0.003,11.89,0.38,31.3,0.968,0.016
+Nevada,full_strong_smooth,0,0.3,0.3,12.23,0.38,32.2,0.972,0.016
+Nevada,full_very_strong,0,3.0,3.0,11.6,0.38,30.5,0.984,0.016
+Nevada,full_strong_spectral,0,0.3,0.003,11.43,0.38,30.1,0.979,0.016
+Nevada,full_strong_xtrack,0,0.003,0.3,11.93,0.38,31.4,0.969,0.016
+Nevada,K2_strong_xtrack,2,0.003,0.3,37.15,0.38,97.7,-0.902,0.042
